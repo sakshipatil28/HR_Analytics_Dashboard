@@ -1,2 +1,2 @@
-# HR_Analytics_Dashboard
+# HR_Analytics_Power BI Dashboard
 This project in the field of human resources examines how employees at various levels within an organization are leaving their jobs. The analysis of attrition rates takes into account several factors, including the employees' monthly earnings, the year of their last promotion, their job roles, and their work-life balance. This analysis is conducted for employees in various departments.
